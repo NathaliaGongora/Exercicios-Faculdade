@@ -55,6 +55,14 @@ Exercícios em Java sobre seleção de opções com `switch case`, construção 
 | 09 | Identificação de tamanhos de roupa |
 | 10 | Menu para seleção de meios de transporte |
 
+### 1º semestre — Avaliações
+
+#### AC1 — Calculadora de média semestral
+
+Código desenvolvido durante a primeira avaliação de Construção de Algoritmos. A atividade reúne os fundamentos estudados até aquele momento: declaração de variáveis, entrada de dados com `Scanner`, operadores aritméticos, cálculo de média ponderada, operadores lógicos e estruturas condicionais com `if/else`.
+
+O programa recebe as notas de AC1, AC2, AG e AF, calcula a média conforme os respectivos pesos, compara o resultado com a média mínima informada pelo usuário e exibe uma orientação final.
+
 ## Estrutura
 
 ```text
@@ -67,10 +75,13 @@ PrimeiroSemestre/
 │   ├── Exercicio01.java
 │   ├── ...
 │   └── Exercicio10.java
-└── SwitchCase/
-    ├── Exercicio01.java
-    ├── ...
-    └── Exercicio10.java
+├── SwitchCase/
+│   ├── Exercicio01.java
+│   ├── ...
+│   └── Exercicio10.java
+└── Avaliacoes/
+    └── AC1/
+        └── Ac1.java
 ```
 
 Novas pastas serão adicionadas conforme os conteúdos estudados forem organizados.
@@ -98,6 +109,13 @@ Para os exercícios de `switch case`, use:
 ```bash
 javac PrimeiroSemestre/SwitchCase/Exercicio01.java
 java PrimeiroSemestre.SwitchCase.Exercicio01
+```
+
+Para executar o código da AC1, use:
+
+```bash
+javac PrimeiroSemestre/Avaliacoes/AC1/Ac1.java
+java PrimeiroSemestre.Avaliacoes.AC1.Ac1
 ```
 
 ## Tecnologias
