@@ -21,13 +21,33 @@ Exercícios introdutórios em Java sobre declaração e atribuição de variáve
 | 09 | Conversão de Celsius para Fahrenheit |
 | 10 | Média de três notas |
 
+### 1º semestre — Algoritmos: estruturas condicionais
+
+Exercícios em Java sobre decisões com `if`, `else if` e `else`, operadores relacionais, operadores lógicos e validação de dados.
+
+| Exercício | Conteúdo praticado |
+|---|---|
+| 01 | Identificação de número par ou ímpar |
+| 02 | Paridade e verificação de intervalo com condicionais aninhadas |
+| 03 | Limite de entrada, paridade e verificação de intervalo |
+| 04 | Simplificação das verificações com operadores lógicos |
+| 05 | Classificação por faixa etária |
+| 06 | Calculadora com escolha da operação e validação de divisão por zero |
+| 07 | Comparação entre dois números |
+| 08 | Classificação de número positivo, negativo ou zero |
+| 09 | Validação e classificação de triângulos |
+| 10 | Verificação de ano bissexto |
+
 ## Estrutura
 
 ```text
 PrimeiroSemestre/
-└── Variaveis/
+├── Variaveis/
+│   ├── Exercicio01.java
+│   ├── ...
+│   └── Exercicio10.java
+└── Condicionais/
     ├── Exercicio01.java
-    ├── Exercicio02.java
     ├── ...
     └── Exercicio10.java
 ```
@@ -45,10 +65,19 @@ java PrimeiroSemestre.Variaveis.Exercicio01
 
 Para testar outro exercício, substitua `Exercicio01` pelo número desejado nos dois comandos.
 
+Para os exercícios de estruturas condicionais, use:
+
+```bash
+javac PrimeiroSemestre/Condicionais/Exercicio01.java
+java PrimeiroSemestre.Condicionais.Exercicio01
+```
+
 ## Tecnologias
 
 - Java
 - Programação estruturada
 - Entrada de dados com `Scanner`
+- Estruturas condicionais
+- Operadores relacionais e lógicos
 
 > Estes são exercícios acadêmicos introdutórios, publicados para documentar meu aprendizado e minha evolução ao longo do curso.
