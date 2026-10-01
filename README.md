@@ -38,6 +38,23 @@ Exercícios em Java sobre decisões com `if`, `else if` e `else`, operadores rel
 | 09 | Validação e classificação de triângulos |
 | 10 | Verificação de ano bissexto |
 
+### 1º semestre — Algoritmos: switch case
+
+Exercícios em Java sobre seleção de opções com `switch case`, construção de menus, agrupamento de casos, uso de `break` e tratamento de entradas inválidas com `default`.
+
+| Exercício | Conteúdo praticado |
+|---|---|
+| 01 | Menu para seleção de bebidas |
+| 02 | Identificação da primeira ou segunda quinzena do mês |
+| 03 | Conversão de metros para outras unidades |
+| 04 | Identificação do dia da semana |
+| 05 | Calculadora com menu de operações matemáticas |
+| 06 | Exibição de eventos especiais de cada mês |
+| 07 | Descrição de cores usando valores textuais |
+| 08 | Menu para seleção das estações do ano |
+| 09 | Identificação de tamanhos de roupa |
+| 10 | Menu para seleção de meios de transporte |
+
 ## Estrutura
 
 ```text
@@ -46,7 +63,11 @@ PrimeiroSemestre/
 │   ├── Exercicio01.java
 │   ├── ...
 │   └── Exercicio10.java
-└── Condicionais/
+├── Condicionais/
+│   ├── Exercicio01.java
+│   ├── ...
+│   └── Exercicio10.java
+└── SwitchCase/
     ├── Exercicio01.java
     ├── ...
     └── Exercicio10.java
@@ -72,6 +93,13 @@ javac PrimeiroSemestre/Condicionais/Exercicio01.java
 java PrimeiroSemestre.Condicionais.Exercicio01
 ```
 
+Para os exercícios de `switch case`, use:
+
+```bash
+javac PrimeiroSemestre/SwitchCase/Exercicio01.java
+java PrimeiroSemestre.SwitchCase.Exercicio01
+```
+
 ## Tecnologias
 
 - Java
@@ -79,5 +107,7 @@ java PrimeiroSemestre.Condicionais.Exercicio01
 - Entrada de dados com `Scanner`
 - Estruturas condicionais
 - Operadores relacionais e lógicos
+- Estruturas de seleção com `switch case`
+- Construção de menus no console
 
 > Estes são exercícios acadêmicos introdutórios, publicados para documentar meu aprendizado e minha evolução ao longo do curso.
