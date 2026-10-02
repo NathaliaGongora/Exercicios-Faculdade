@@ -2,6 +2,6 @@
 
 Exercícios e atividades desenvolvidos durante a disciplina de Programação Orientada a Objetos em Java.
 
-| Lista | Conteúdo |
+| Conteúdo | Descrição |
 |---|---|
-| [Lista 01](Lista01/README.md) | Revisão de algoritmos e fundamentos de Java |
+| [Revisão de algoritmos](RevisaoAlgoritmos/README.md) | Revisão de algoritmos e fundamentos de Java |
