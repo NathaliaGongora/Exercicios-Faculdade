@@ -55,6 +55,23 @@ Exercícios em Java sobre seleção de opções com `switch case`, construção 
 | 09 | Identificação de tamanhos de roupa |
 | 10 | Menu para seleção de meios de transporte |
 
+### 1º semestre — Algoritmos: laços `for`
+
+Exercícios em Java sobre repetição com `for`, contadores, acumuladores, condições de parada e combinação do laço com estruturas condicionais.
+
+| Exercício | Conteúdo praticado |
+|---|---|
+| 01 | Exibição dos números pares de 1 a 10 |
+| 02 | Exibição dos números ímpares de 2 a 19 |
+| 03 | Busca do primeiro número divisível por 7 em um intervalo |
+| 04 | Contagem regressiva de 10 a 1 |
+| 05 | Tabuada de um número informado pelo usuário |
+| 06 | Soma dos números pares de 1 até N |
+| 07 | Cálculo do fatorial de um número |
+| 08 | Exibição dos primeiros N termos de Fibonacci |
+| 09 | Contagem de números positivos entre cinco entradas |
+| 10 | Soma dos números de 1 até N |
+
 ### 1º semestre — Avaliações
 
 #### AC1 — Calculadora de média semestral
@@ -76,6 +93,10 @@ PrimeiroSemestre/
 │   ├── ...
 │   └── Exercicio10.java
 ├── SwitchCase/
+│   ├── Exercicio01.java
+│   ├── ...
+│   └── Exercicio10.java
+├── LacosFor/
 │   ├── Exercicio01.java
 │   ├── ...
 │   └── Exercicio10.java
@@ -111,6 +132,13 @@ javac PrimeiroSemestre/SwitchCase/Exercicio01.java
 java PrimeiroSemestre.SwitchCase.Exercicio01
 ```
 
+Para os exercícios de laços `for`, use:
+
+```bash
+javac PrimeiroSemestre/LacosFor/Exercicio01.java
+java PrimeiroSemestre.LacosFor.Exercicio01
+```
+
 Para executar o código da AC1, use:
 
 ```bash
@@ -127,5 +155,7 @@ java PrimeiroSemestre.Avaliacoes.AC1.Ac1
 - Operadores relacionais e lógicos
 - Estruturas de seleção com `switch case`
 - Construção de menus no console
+- Laços de repetição com `for`
+- Contadores e acumuladores
 
 > Estes são exercícios acadêmicos introdutórios, publicados para documentar meu aprendizado e minha evolução ao longo do curso.
