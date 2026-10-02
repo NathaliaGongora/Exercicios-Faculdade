@@ -14,6 +14,7 @@ Exercícios desenvolvidos durante o primeiro semestre de Análise e Desenvolvime
 | [LacosWhile](LacosWhile/README.md) | Repetições com condições de parada, contadores e acumuladores usando `while` |
 | [LacosDoWhile](LacosDoWhile/README.md) | Repetições com execução inicial obrigatória usando `do...while` |
 | [Vetores](Vetores/README.md) | Armazenamento, leitura, busca, ordenação e processamento de vetores |
+| [Funcoes](Funcoes/README.md) | Métodos com parâmetros, retornos e divisão de responsabilidades |
 | [Avaliacoes](Avaliacoes/README.md) | Códigos desenvolvidos em avaliações acadêmicas |
 
 Cada pasta possui seu próprio README com a descrição dos exercícios e as instruções de execução.
