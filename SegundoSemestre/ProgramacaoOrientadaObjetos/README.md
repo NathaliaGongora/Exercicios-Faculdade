@@ -6,3 +6,4 @@ Exercícios e atividades desenvolvidos durante a disciplina de Programação Ori
 |---|---|
 | [Revisão de algoritmos](RevisaoAlgoritmos/README.md) | Revisão de algoritmos e fundamentos de Java |
 | [Métodos](Metodos/README.md) | Criação e utilização de métodos em Java |
+| [Classes e objetos](ClassesEObjetos/README.md) | Criação de classes, atributos, métodos e objetos |
