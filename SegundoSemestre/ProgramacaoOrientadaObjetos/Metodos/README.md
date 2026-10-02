@@ -15,6 +15,11 @@ Exercícios da disciplina de Programação Orientada a Objetos voltados à cria�
 | 09 | Cálculo da média final da disciplina de POO |
 | 10 | Cálculo de fatorial |
 
+## Observações
+
+- No exercício 05, o enunciado menciona a ordenação da matriz, mas a implementação original contém métodos para preencher, mostrar, filtrar pares e filtrar múltiplos de 5.
+- No exercício 08, o enunciado menciona uma data no formato `dd/mm/aaaa`, enquanto a implementação original recebe dia, mês e ano separadamente.
+
 ## Como executar
 
 ```bash
